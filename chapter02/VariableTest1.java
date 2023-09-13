@@ -20,7 +20,5 @@ public class VariableTest1 {
 
     float f1 = 12.3f;
     System.out.println(f1);
-
-    
   }
 }
