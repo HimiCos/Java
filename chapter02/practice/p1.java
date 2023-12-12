@@ -18,7 +18,6 @@ public class p1 {
     System.out.println(c1 == c2); // false
     char c3 = 'h';
     char c4 = '&';
-    char c5 = '嗨';
     boolean b2 = false;
     boolean b3 = true;
   }

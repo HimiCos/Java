@@ -5,12 +5,11 @@ public class StringExer {
     
     String name = "HimiCos";
     int age = 19;
-    char gender = '男';
     double weight = 130.5;
     boolean isMarried = false;
     String phoneNumber = "12345678901";
     
-    String info = "name = " + name + ", age = " + age + ", gender = " + gender + ", weight = " +
+    String info = "name = " + name + ", age = " + age + ", gender = "  + ", weight = " +
       weight + ", isMarried = " + isMarried + ", phoneNumber = " + phoneNumber;
 
     System.out.println(info);
